@@ -1,7 +1,7 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Dr.-Ing. Tim Redick | CV
+title: CV | Dr.-Ing. Tim Redick
 url: 'https://cv.redick.cc'
 
 #change it according to your repository name
