@@ -73,19 +73,22 @@ education:
         details: |
           Magna cum Laude (very good); Thesis: ["Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation"](https://doi.org/10.18154/RWTH-2024-04533)
             - [https://github.com/rwth-irt/BayesianPoseEstimation.jl](https://github.com/rwth-irt/BayesianPoseEstimation.jl)
+            - GPU parallelized and accelerated algorithms for 3D cameras
             - Julia, CUDA, OpenGL, ROS
       - degree: M.Sc. in Automation Engineering
         university: RWTH Aachen University
         time: 2013 - 2018
         details: |
           1.1 (1.0 very good, 4.0 passed); Thesis: "Pose tracking of hip bones with a robot mounted RGB-D camera"
+            - Particle filters for depth images, augmented reality in cadaver experiments
             - C++, ROS, OpenGL
       - degree: B.Sc. in Mechanical Engineering
         university: RWTH Aachen University
         time: 2013 - 2018
         details: |
           2.1 (1.0 very good, 4.0 passed); Thesis: "Cooperative robot force regulation for the assembly of large aircraft components"
-            - C++, Matlab
+            - Optimal control, commissioning test bench, interfaces
+            - C++, Matlab, PLC
       - degree: General Qualification for University Entrance
         university: Andreas Vesalius Gymnasium Wesel
         time: 2001 - 2005
