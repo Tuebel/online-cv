@@ -13,6 +13,9 @@ description: A beautiful Jekyll theme for creating resume
 theme_skin: oceanstale # blue turquoise green berry orange ceramic teal oceanstale
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
+plugins:
+  - jekyll-seo-tag
+
 # Tracker
 # analytics: 
 
@@ -29,6 +32,15 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: assets/images/cv-og-image.png
+      width: 1335
+      height: 398
+      alt: Colorful robot icon in front of a spine phantom with MCUs and IMUs attached to it and an robot arm pushing a vertebra
 
 # Development Settings
 port: 4000
