@@ -2,7 +2,9 @@
 
 # Site Settings
 title: CV | Dr.-Ing. Tim Redick
+tagline: Full-Stack Roboticist
 url: 'https://cv.redick.cc'
+logo: favicon.svg
 
 #change it according to your repository name
 # disabling since we are using a custom domain
