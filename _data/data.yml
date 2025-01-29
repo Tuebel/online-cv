@@ -9,9 +9,9 @@ sidebar:
 
     # Profile information
     name: Dr.-Ing. Tim Redick
-    tagline: Full Stack Roboticist
+    tagline: Full-Stack Roboticist
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    family: married, two children
+    family: born Übelhör, married, 2 children
 
     # Sidebar links
     email: mail@redick.cc
@@ -57,14 +57,12 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      **This is heavy work in progress, most is still from the template**
-
-      For over ten years, I have been working on automation solutions in the fields of medical robotics, mobility and navigation.
-      My enthusiasm, openness and resilience have enabled me to successfully complete a large number of projects.
+      For over ten years, I have been working on automation solutions in the fields of medical robotics, mobility, and navigation.
+      My enthusiasm, openness, and resilience have enabled me to successfully complete numerous projects.
       I enjoy taking on responsibility, which I have been able to do in various management positions.
-      My superiors appreciate my quick thinking and structured problem solving, even under high pressure.
+      In addition to these qualities, my superiors value my quick-thinking and structured problem-solving, even under high pressure.
       My colleagues appreciate my open communication and the fact that I always have their backs to enable them to work effectively.
-      With me, you gain a conscientious, responsible and collegial employee who wants to continuously improve himself and your company.
+      With me, you gain a conscientious, responsible, and collegial employee who wants to continuously improve himself and your company.
 
 education:
     title: Education
@@ -73,189 +71,162 @@ education:
         university: RWTH Aachen University
         time: 2018 - 2014
         details: |
-          Magna cum Laude (very good)
-            - Bullet point
-            - Bullet point
+          Magna cum Laude (very good); Thesis: ["Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation"](https://doi.org/10.18154/RWTH-2024-04533)
+            - [https://github.com/rwth-irt/BayesianPoseEstimation.jl](https://github.com/rwth-irt/BayesianPoseEstimation.jl)
+            - Julia, CUDA, OpenGL, ROS
       - degree: M.Sc. in Automation Engineering
         university: RWTH Aachen University
         time: 2013 - 2018
         details: |
-          1.1 (1.0 best, 5.0 failed)
-            - Bullet point
-            - Bullet point
+          1.1 (1.0 very good, 4.0 passed); Thesis: "Pose tracking of hip bones with a robot mounted RGB-D camera"
+            - C++, ROS, OpenGL
       - degree: B.Sc. in Mechanical Engineering
         university: RWTH Aachen University
         time: 2013 - 2018
         details: |
-          2.1 (1.0 best, 5.0 failed)
-            - Bullet point
-            - Bullet point
-
+          2.1 (1.0 very good, 4.0 passed); Thesis: "Cooperative robot force regulation for the assembly of large aircraft components"
+            - C++, Matlab
 experiences:
     title: Experiences
     info:
-      - role: Group Manager Navigation, Mobility, and Medical
-        time: 2023 - Present
+      - role: Group Manager
+        time: Mar. 2023 - Present
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Research Assistant 
-        time: 2018 - Present
+          Biomedical Systems (Mar. 2023 - Jul. 2023),\
+          Mobility and Navigation (Oct. 2023 - Aug. 2024 - Present)
+          - Acquisition of projects and communication with industry / research partners
+          - Employing and leading up to eight team members
+          - Project management of the acquired projects
+          - Budgeting and writing of grand proposals
+      - role: Research Assistant Drones and Robotics
+        time: Nov. 2018 - Present
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: Student Assistant
-        time: 2015 - 2018
+          Focus on 3D perception in Aerial Drones and Medical Robotics
+          - GPU-accelerated and 3D camera-based Bayesian inference for pose estimation of
+            - Surgical instruments; planning and control for robotic pick-and-place
+            - Bones for augmented reality-based osteotomy templates
+          - Kalman filter-based sensor fusion for
+            - IMU-based displacement detection of vertebrae
+            - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine
+          - Force- and impedance-control of a KUKA LBR Med robot for
+            - Rehabilitation of stroke patients using
+            - Physical support of nurses moving patients
+      - role: Student Assistant Heart Pump Control
+        time: May 2015 - Oct. 2018
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: Intern
-        time: 2016
+          - C++ real-time backend for simulating medical models
+          - Communication-interface for hardware in the loop simulations
+          - C# .NET GUI for plotting experiments
+      - role: Internship in Software Development
+        time: Oct. 2016 - Dec. 2016
         company: Siemens
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - Planing, execution and evaluation of the communication between a PC and a Sinumerik unit
+          - Development of a test tool in C#
+          - Construction and 3D printing of parts for test racks
       - role: Employee in System Gastronomics
-        time: 2011 - 2015
-        company: Siemens
+        time: Apr. 2011 - Apr. 2015
+        company: Marché Restaurant DUS Airport
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          - Guest Service
+          - Assistance in work and process optimization
+          - Organization of daily routine
 certifications:
       title: Awards
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Friedrich-Wilhelm Price
+          start: 2019
+          # end: 2021
+          organization: RWTH Aachen University
+          # credentialid: 111-222
+          # credentialurl: www.google.com
+          # credentialname: Google
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-#         - name: Git learning
-#           start: 2019
-#           end:
-#           organization: Microsoft
-#           credentialid: 111-222
-#           credentialurl: www.github.com
-#           credentialname: Github
-#           details: |
-#             Older certification. Lorem ipsum dolor sit amet, consectetur
-#             adipiscing elit.
-#             Nullam eget orci purus. Nullam ultrices neque nibh.
-#             Aenean fermentum, felis vulputate suscipit accumsan,
-#             sem enim bibendum augue, sed convallis arcu lacus at dui.
-#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#             Praesent venenatis erat non augue suscipit consectetur.
+            Exceptional master's thesis
+        - name: Dean's List
+          start: 2018
+          organization: RWTH Aachen University
+          details: |
+            Top 5% of the faculty
 
 oss:
     title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your open source software contributions in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: BayesianPoseEstimation.jl
+        link: "https://github.com/rwth-irt/BayesianPoseEstimation.jl"
+        tagline: "6D pose estimation using sampling-based Bayesian inference algorithms in Julia; reproduces the results of my dissertation"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: KUKA LBR Med stack
+        link: "https://github.com/rwth-irt/lbrmed-ros"
+        tagline: "ROS1 support for the KUKA LBR Med: FRI-based hardware interface, MoveIt, kinematic simulation"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: FLIRT
+        link: "https://gitlab.com/rwth-irt-public/flirt"
+        tagline: "Filter Library Institut für RegelungsTechnik; filter library for 3D camera-based object pose tracking in ROS"
+
+      - title: FmiWrapper
+        link: "https://github.com/rwth-irt/FmiWrapper"
+        tagline: "Simplified C-Interface for fmi2 models; includes .net wrapper"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation
+        link: "https://doi.org/10.18154/RWTH-2024-04533"
+        authors: "**Redick, Tim**"
+        conference: Dissertation, Apr. 15th 2024
+      - title: IMU-based displacement detection of spinal vertebrae during image-based surgeries.
+        link: "https://doi.org/10.1515/bmte-2023-2001"
+        authors: "**Redick T**, Kohler C, Voß KL, Blume C, Delev D, Clusmann HR, Abel D, Vallery H"
+        conference: Abstracts of the 57th Annual Meeting of the German Society of Biomedical, Duisburg, Sep. 2023
+      - title: Comparison of augmented reality and cutting guide technology in assisted harvesting of iliac crest grafts – A cadaver study
+        link: "https://doi.org/10.1016/j.aanat.2021.151834"
+        authors: "Ali M, Nassim A, **Redick T**, Gesenhues J, Kniha K, Möhlhenrich SC, Raith S, Abel D, Hölzle F, Winnand P"
+        conference: Annals of Anatomy - Anatomischer Anzeiger, Jan. 2022
+      - title: "Navigation of iliac crest graft harvest using markerless augmented reality and cutting guide technology: A pilot study."
+        link: "https://doi.org/10.1002/rcs.2318"
+        authors: "Winnand P, Ayoub N, **Redick T**, Gesenhues J, Heitzer M, Peters F, Raith S, Abel D, Hölzle F, Modabber A"
+        conference: The International Journal of Medical Robotics and Computer Assisted Surgery, Aug. 2021
+      - title: "Efficient Reject Options for Particle Filter Object Tracking in Medical Applications"
+        link: "https://doi.org/10.3390/s21062114"
+        authors: "Kummert J, Schulz A, **Redick T**, Ayoub N, Modabber A, Abel D, Hammer B"
+        conference: Sensors, 21(6):2114, Jan. 2021
+      - title: 3D camera-based markerless navigation system for robotic osteotomies
+        link: "https://doi.org/10.18154/RWTH-2020-10194"
+        authors: "**Übelhör (Redick) T**, Gesenhues J, Ayoub N, Modabber A, Abel D"
+        conference: at - Automatisierungstechnik, vol. 68, no. 10, pp. 863-879, Sep. 2020
+      - title: Depth Camera Based Particle Filter for Robotic Osteotomy Navigation
+        link: "https://arxiv.org/abs/1910.11116"
+        authors: "**Übelhör (Redick) T**, Gesenhues J, Ayoub N, Modabber A, Abel D"
+        conference: arXiv:1910.11116 [cs], Oct. 2019
+      - title: Cooperating Robot Force Control for Positioning and Untwisting of Thin Walled Components
+        link: "https://doi.org/10.4172/2168-9695.1000179"
+        authors: Bertelsmeier F, Detert T, **Übelhör (Redick) T**, Schmitt R, Corves B
+        conference: Advances in Robotics and Automation 2017, 6:3, Nov. 2017
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills and Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C++, ROS, Linux, Git, Julia
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Docker, Python, OpenGL, CUDA
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: CI/CD (GitHub, GitLab), Matlab
+        level: 80%
+
+      - name: PyTorch
         level: 60%
 
 # projects:

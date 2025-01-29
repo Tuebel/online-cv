@@ -1,6 +1,12 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
+    {% if sidebar.family %}
+    <li class="family"><i class="fas fa-user"></i>
+      <a href="">{{ sidebar.family }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
@@ -23,12 +29,6 @@
     <li class="timezone"><i class="fas fa-clock"></i>
       <a href="https://worldtimeapi.org/timezone/{{ sidebar.timezone }}" target="_blank">{{ sidebar.timezone }}
         Timezone</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.family %}
-    <li class="email"><i class="fas fa-user"></i>
-      <a href="">{{ sidebar.family }}</a>
     </li>
     {% endif %}
 
