@@ -149,16 +149,18 @@ experiences:
 certifications:
       title: Awards
       list:
-        - name: Friedrich-Wilhelm Price
+        - name: Friedrich-Wilhelm Preis
           start: 2019
           # end: 2021
           organization: RWTH Aachen University
           # credentialid: 111-222
           # credentialurl: www.google.com
           # credentialname: Google
+          link: https://www.rwth-aachen.de/cms/root/die-rwth/rwth-events/wuerdigung-unserer-absolvierenden-und-un/~bejcnm/friedrich-wilhelm-preis/?lidx=1
           details: |
             Exceptional master's thesis
         - name: Dean's List
+          link: https://www.rwth-aachen.de/cms/root/studium/lehre/exzellente-lehre/~dhky/dean-s-list/?lidx=1
           start: 2018
           organization: RWTH Aachen University
           details: |
@@ -166,10 +168,10 @@ certifications:
 
 oss:
     title: OSS Contributions
-    # intro: >
-    #   You can list your open source software contributions in this
-    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: |
+      During my time at the Institute of Automatic Control, I have advocated for more open source to improve the reproducibility of our research.
+      I specifically find [(development) containers](https://github.com/rwth-irt/ros2-devcontainer) useful for simplified reproducibility.
+      Please look at my [GitHub profile](https://github.com/tuebel) for the most recent contributions.
     contributions:
       - title: BayesianPoseEstimation.jl
         link: "https://github.com/rwth-irt/BayesianPoseEstimation.jl"
