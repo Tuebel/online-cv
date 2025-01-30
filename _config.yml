@@ -40,9 +40,9 @@ defaults:
       path: ""
     values:
       image: assets/images/cv-og-image.png
-      width: 1335
-      height: 398
-      alt: Colorful robot icon in front of a spine phantom with MCUs and IMUs attached to it and an robot arm pushing a vertebra
+      width: 1044
+      height: 521
+      alt: Screenshot of the head of the CV website, left is text of my profile, and right a picture of me
 
 # Development Settings
 port: 4000
