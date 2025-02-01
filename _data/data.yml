@@ -61,7 +61,7 @@ career-profile:
       My enthusiasm, openness, and resilience have enabled me to successfully complete numerous projects.
       I enjoy taking on responsibility, which I have been able to do in various management positions.
       In addition to these qualities, my superiors value my quick-thinking and structured problem-solving, even under high pressure.
-      My colleagues appreciate my open communication and the fact that I always have their backs to enable them to work effectively.
+      My colleagues appreciate my open communication and that I always have their backs to enable them to work effectively.
       With me, you gain a conscientious, responsible, and collegial employee who wants to continuously improve himself and your company.
 
 education:
@@ -95,7 +95,7 @@ education:
         details: |
           1.3 (1.0 very good, 4.0 passed)
       - degree: Elementary school
-        university: GemeinschaftsgrundschuleW Borth-Wallach
+        university: Gemeinschaftsgrundschule Borth-Wallach
         time: 2001 - 2005
 
 experiences:
@@ -105,8 +105,7 @@ experiences:
         time: Mar. 2023 - Present
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          Biomedical Systems (Mar. 2023 - Jul. 2023),\
-          Mobility and Navigation (Oct. 2023 - Aug. 2024 - Present)
+          Biomedical Systems; Mobility and Navigation
           - Acquisition of projects and communication with industry / research partners
           - Employing and leading up to eight team members
           - Project management of the acquired projects
@@ -170,7 +169,7 @@ oss:
     title: OSS Contributions
     intro: |
       During my time at the Institute of Automatic Control, I have advocated for more open source to improve the reproducibility of our research.
-      I specifically find [(development) containers](https://github.com/rwth-irt/ros2-devcontainer) useful for simplified reproducibility.
+      I specifically consider [(development) containers](https://github.com/rwth-irt/ros2-devcontainer) useful for simplified reproducibility.
       Please look at my [GitHub profile](https://github.com/tuebel) for the most recent contributions.
     contributions:
       - title: BayesianPoseEstimation.jl
