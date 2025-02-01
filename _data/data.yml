@@ -77,14 +77,14 @@ education:
             - Julia, CUDA, OpenGL, ROS
       - degree: M.Sc. in Automation Engineering
         university: RWTH Aachen University
-        time: 2013 - 2018
+        time: 2017 - 2018
         details: |
           1.1 (1.0 very good, 4.0 passed); Thesis: "Pose tracking of hip bones with a robot mounted RGB-D camera"
             - Particle filters for depth images, augmented reality in cadaver experiments
             - C++, ROS, OpenGL
       - degree: B.Sc. in Mechanical Engineering
         university: RWTH Aachen University
-        time: 2013 - 2018
+        time: 2013 - 2017
         details: |
           2.1 (1.0 very good, 4.0 passed); Thesis: "Cooperative robot force regulation for the assembly of large aircraft components"
             - Optimal control, commissioning test bench, interfaces
