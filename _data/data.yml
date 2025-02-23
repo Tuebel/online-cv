@@ -122,7 +122,7 @@ experiences:
             - IMU-based displacement detection of vertebrae
             - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine
           - Force- and impedance-control of a KUKA LBR Med robot for
-            - Rehabilitation of stroke patients using
+            - Rehabilitation of stroke patients via assist-as-needed control
             - Physical support of nurses moving patients
       - role: Student Assistant Heart Pump Control
         time: May 2015 - Oct. 2018
