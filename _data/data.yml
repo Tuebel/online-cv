@@ -69,7 +69,7 @@ education:
     info:
       - degree: Dr.-Ing. in Automatic Control (Ph.D. Engineering)
         university: RWTH Aachen University
-        time: 2018 - 2014
+        time: 2018 - 2024
         details: |
           Magna cum Laude (very good); Thesis: ["Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation"](https://doi.org/10.18154/RWTH-2024-04533)
             - [https://github.com/rwth-irt/BayesianPoseEstimation.jl](https://github.com/rwth-irt/BayesianPoseEstimation.jl)
@@ -113,14 +113,14 @@ experiences:
         time: Nov. 2018 - Present
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          - GPU-accelerated and 3D camera-based Bayesian inference for pose estimation of
+          - 3D camera-based, GPU-accelerated pose estimation of ...
             - surgical instruments; planning and control for robotic pick-and-place
             - bones for augmented reality-based osteotomy templates
             - C++, OpenGL, CUDA, ROS, OpenCV, Julia
-          - Kalman filter-based sensor fusion for
+          - Kalman filter-based sensor fusion for ...
             - IMU-based displacement detection of vertebrae (Matlab)
             - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine (ROS, Python)
-          - Force- and impedance-control of a KUKA LBR Med robot for
+          - Force- and impedance-control of a KUKA LBR Med robot for ...
             - rehabilitation of stroke patients via assist-as-needed control (Java)
             - physical support of nurses moving patients (ROS, Python)
       - role: Student Assistant Heart Pump Control
@@ -129,7 +129,7 @@ experiences:
         details: |
           - C++ real-time backend for simulating medical models
           - Communication-interface for hardware in the loop simulations
-          - C# .NET GUI for plotting experiments
+          - C# .NET GUI for the online visualization of experiments
       - role: Internship in Software Development
         time: Oct. 2016 - Dec. 2016
         company: Siemens
