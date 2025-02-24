@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Dr.-Ing. Tim Redick
-    tagline: Full-Stack Roboticist
+    tagline: Full-Stack Roboticist, Group Manager, Researcher
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     family: born Übelhör, married, 2 children
 
@@ -101,29 +101,28 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Group Manager
+      - role: Group Manager Mobility and Navigation; Biomedical Systems
         time: Mar. 2023 - Present
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          Biomedical Systems; Mobility and Navigation
           - Acquisition of projects and communication with industry / research partners
           - Employing and leading up to eight team members
           - Project management of the acquired projects
           - Budgeting and writing of grand proposals
-      - role: Research Assistant Drones and Robotics
+      - role: Research Assistant State Estimation in Drones and Robotics
         time: Nov. 2018 - Present
         company: Institute of Automatic Control, RWTH Aachen University
         details: |
-          Focus on 3D perception in Aerial Drones and Medical Robotics
           - GPU-accelerated and 3D camera-based Bayesian inference for pose estimation of
-            - Surgical instruments; planning and control for robotic pick-and-place
-            - Bones for augmented reality-based osteotomy templates
+            - surgical instruments; planning and control for robotic pick-and-place
+            - bones for augmented reality-based osteotomy templates
+            - C++, OpenGL, CUDA, ROS, OpenCV, Julia
           - Kalman filter-based sensor fusion for
-            - IMU-based displacement detection of vertebrae
-            - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine
+            - IMU-based displacement detection of vertebrae (Matlab)
+            - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine (ROS, Python)
           - Force- and impedance-control of a KUKA LBR Med robot for
-            - Rehabilitation of stroke patients via assist-as-needed control
-            - Physical support of nurses moving patients
+            - rehabilitation of stroke patients via assist-as-needed control (Java)
+            - physical support of nurses moving patients (ROS, Python)
       - role: Student Assistant Heart Pump Control
         time: May 2015 - Oct. 2018
         company: Institute of Automatic Control, RWTH Aachen University
@@ -146,15 +145,21 @@ experiences:
           - Assistance in work and process optimization
           - Organization of daily routine
 certifications:
-      title: Awards
+      title: Certifications & Awards
       list:
-        - name: Friedrich-Wilhelm Preis
-          start: 2019
-          # end: 2021
-          organization: RWTH Aachen University
+        - name: Führungskräfte-Intensivseminar (Leadership intensive seminar)
+          start: 2024
+          organization: Able to move (Astrid Müller)
           # credentialid: 111-222
           # credentialurl: www.google.com
           # credentialname: Google
+          link: https://www.abletomove.de/#toggle-id-13
+          details: |
+            The participants who have gone through these 3 days with us say: “Leadership intensive seminar has earned its name”. [...] You will experience the demands of leadership and get a feel for your role. You will learn which strengths and potential you can develop for your role. You will develop security and self-confidence for your future challenges.  
+        - name: Friedrich-Wilhelm Preis (Friedrich-Wilhelm Prize)
+          start: 2019
+          # end: 2021
+          organization: RWTH Aachen University
           link: https://www.rwth-aachen.de/cms/root/die-rwth/rwth-events/wuerdigung-unserer-absolvierenden-und-un/~bejcnm/friedrich-wilhelm-preis/?lidx=1
           details: |
             Exceptional master's thesis
@@ -175,15 +180,12 @@ oss:
       - title: BayesianPoseEstimation.jl
         link: "https://github.com/rwth-irt/BayesianPoseEstimation.jl"
         tagline: "6D pose estimation using sampling-based Bayesian inference algorithms in Julia; reproduces the results of my dissertation"
-
       - title: KUKA LBR Med stack
         link: "https://github.com/rwth-irt/lbrmed-ros"
         tagline: "ROS1 support for the KUKA LBR Med: FRI-based hardware interface, MoveIt, kinematic simulation"
-
       - title: FLIRT
         link: "https://gitlab.com/rwth-irt-public/flirt"
         tagline: "Filter Library Institut für RegelungsTechnik; filter library for 3D camera-based object pose tracking in ROS"
-
       - title: FmiWrapper
         link: "https://github.com/rwth-irt/FmiWrapper"
         tagline: "Simplified C-Interface for fmi2 models; includes .net wrapper"
@@ -232,13 +234,10 @@ skills:
     toolset:
       - name: C++, ROS, Linux, Git, Julia
         level: 95%
-
       - name: Docker, Python, OpenGL, CUDA
         level: 90%
-
       - name: CI/CD (GitHub, GitLab), Matlab
         level: 80%
-
       - name: PyTorch
         level: 60%
 
