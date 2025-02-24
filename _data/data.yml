@@ -123,6 +123,9 @@ experiences:
           - Force- and impedance-control of a KUKA LBR Med robot for ...
             - rehabilitation of stroke patients via assist-as-needed control (Java)
             - physical support of nurses moving patients (ROS, Python)
+          - Teaching
+            - Concepting and holding lectures and exercises
+            - Supervision of student theses
       - role: Student Assistant Heart Pump Control
         time: May 2015 - Oct. 2018
         company: Institute of Automatic Control, RWTH Aachen University
