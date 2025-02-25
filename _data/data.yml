@@ -158,7 +158,9 @@ certifications:
           # credentialname: Google
           link: https://www.abletomove.de/#toggle-id-13
           details: |
-            The participants who have gone through these 3 days with us say: “Leadership intensive seminar has earned its name”. [...] You will experience the demands of leadership and get a feel for your role. You will learn which strengths and potential you can develop for your role. You will develop security and self-confidence for your future challenges.  
+            - development of my leadership skills and goals
+            - learned about my strengths and potential for my leadership role
+            - self-confidence for future challenges
         - name: Friedrich-Wilhelm Preis (Friedrich-Wilhelm Prize)
           start: 2019
           # end: 2021
