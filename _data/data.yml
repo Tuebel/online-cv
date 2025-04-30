@@ -72,7 +72,7 @@ education:
         time: 2018 - 2024
         details: |
           Magna cum Laude (very good); Thesis: ["Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation"](https://doi.org/10.18154/RWTH-2024-04533)
-            - [https://github.com/rwth-irt/BayesianPoseEstimation.jl](https://github.com/rwth-irt/BayesianPoseEstimation.jl)
+            - [https://github.com/Tuebel/BayesianPoseEstimation.jl](https://github.com/Tuebel/BayesianPoseEstimation.jl)
             - GPU parallelized and accelerated algorithms for 3D cameras
             - Julia, CUDA, OpenGL, ROS
       - degree: M.Sc. in Automation Engineering
@@ -185,7 +185,7 @@ oss:
       Please look at my [GitHub profile](https://github.com/tuebel) for the most recent contributions.
     contributions:
       - title: BayesianPoseEstimation.jl
-        link: "https://github.com/rwth-irt/BayesianPoseEstimation.jl"
+        link: "https://github.com/Tuebel/BayesianPoseEstimation.jl"
         tagline: "6D pose estimation using sampling-based Bayesian inference algorithms in Julia; reproduces the results of my dissertation"
       - title: KUKA LBR Med stack
         link: "https://github.com/rwth-irt/lbrmed-ros"
