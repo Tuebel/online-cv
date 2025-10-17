@@ -3,250 +3,256 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Dr.-Ing. Tim Redick
-    tagline: Full-Stack Roboticist, Group Manager, Researcher
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    family: born Übelhör, married, 2 children
+  # Profile information
+  name: Dr.-Ing. Tim Redick
+  tagline: Full-Stack Roboticist, Group Manager, Researcher
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  family: born Übelhör, married, 2 children
 
-    # Sidebar links
-    email: mail@redick.cc
-    phone: 
-    # timezone: Germany/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: German
-    website: https://www.redick.cc/ # Include the full website URL, including "http://" or "https://".
-    linkedin: timredick
-    xing: Tim_Redick
-    github: tuebel
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon: https://fosstodon.org/@tuebel # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  # Sidebar links
+  email: mail@redick.cc
+  phone:
+  # timezone: Germany/Berlin # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: German
+  website: https://www.redick.cc/ # Include the full website URL, including "http://" or "https://".
+  linkedin: timredick
+  xing: Tim_Redick
+  github: tuebel
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: https://fosstodon.org/@tuebel # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: German
-          level: Native
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: German
+        level: Native
+      - idiom: English
+        level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Home Automation & Making
-          link:
-        - item: Tech & Tools
-          link:
-        - item: Guitar & Piano
-          link:
-        - item: Hiking & Skiing
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Home Automation & Making
+        link:
+      - item: Tech & Tools
+        link:
+      - item: Guitar & Piano
+        link:
+      - item: Hiking & Skiing
+        link:
 
 career-profile:
-    title: Profile
-    summary: |
-      For over ten years, I have been working on automation solutions in the fields of medical robotics, mobility, and navigation.
-      My enthusiasm, openness, and resilience have enabled me to successfully complete numerous projects.
-      I enjoy taking on responsibility, which I have been able to do in various management positions.
-      In addition to these qualities, my superiors value my quick-thinking and structured problem-solving, even under high pressure.
-      My colleagues appreciate my open communication and that I always have their backs to enable them to work effectively.
-      With me, you gain a conscientious, responsible, and collegial employee who wants to continuously improve himself and your company.
+  title: Profile
+  summary: |
+    For over ten years, I have been working on automation solutions in the fields of medical robotics, mobility, and navigation.
+    My enthusiasm, openness, and resilience have enabled me to successfully complete numerous projects.
+    I enjoy taking on responsibility, which I have been able to do in various management positions.
+    In addition to these qualities, my superiors value my quick-thinking and structured problem-solving, even under high pressure.
+    My colleagues appreciate my open communication and that I always have their backs to enable them to work effectively.
+    With me, you gain a conscientious, responsible, and collegial employee who wants to continuously improve himself and your company.
 
 education:
-    title: Education
-    info:
-      - degree: Dr.-Ing. in Automatic Control (Ph.D. Engineering)
-        university: RWTH Aachen University
-        time: 2018 - 2024
-        details: |
-          Magna cum Laude (very good); Thesis: ["Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation"](https://doi.org/10.18154/RWTH-2024-04533)
-            - [https://github.com/Tuebel/BayesianPoseEstimation.jl](https://github.com/Tuebel/BayesianPoseEstimation.jl)
-            - GPU parallelized and accelerated algorithms for 3D cameras
-            - Julia, CUDA, OpenGL, ROS
-      - degree: M.Sc. in Automation Engineering
-        university: RWTH Aachen University
-        time: 2017 - 2018
-        details: |
-          1.1 (1.0 very good, 4.0 passed); Thesis: "Pose tracking of hip bones with a robot mounted RGB-D camera"
-            - Particle filters for depth images, augmented reality in cadaver experiments
-            - C++, ROS, OpenGL
-      - degree: B.Sc. in Mechanical Engineering
-        university: RWTH Aachen University
-        time: 2013 - 2017
-        details: |
-          2.1 (1.0 very good, 4.0 passed); Thesis: "Cooperative robot force regulation for the assembly of large aircraft components"
-            - Optimal control, commissioning test bench, interfaces
-            - C++, Matlab, PLC
-      - degree: General Qualification for University Entrance
-        university: Andreas Vesalius Gymnasium Wesel
-        time: 2005 - 2013
-        details: |
-          1.3 (1.0 very good, 4.0 passed)
-      - degree: Elementary school
-        university: Gemeinschaftsgrundschule Borth-Wallach
-        time: 2001 - 2005
+  title: Education
+  info:
+    - degree: Dr.-Ing. in Automatic Control (Ph.D. Engineering)
+      university: RWTH Aachen University
+      time: 2018 - 2024
+      details: |
+        Magna cum Laude (very good); Thesis: ["Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation"](https://doi.org/10.18154/RWTH-2024-04533)
+          - [https://github.com/Tuebel/BayesianPoseEstimation.jl](https://github.com/Tuebel/BayesianPoseEstimation.jl)
+          - GPU parallelized and accelerated algorithms for 3D cameras
+          - Julia, CUDA, OpenGL, ROS
+    - degree: M.Sc. in Automation Engineering
+      university: RWTH Aachen University
+      time: 2017 - 2018
+      details: |
+        1.1 (1.0 very good, 4.0 passed); Thesis: "Pose tracking of hip bones with a robot mounted RGB-D camera"
+          - Particle filters for depth images, augmented reality in cadaver experiments
+          - C++, ROS, OpenGL
+    - degree: B.Sc. in Mechanical Engineering
+      university: RWTH Aachen University
+      time: 2013 - 2017
+      details: |
+        2.1 (1.0 very good, 4.0 passed); Thesis: "Cooperative robot force regulation for the assembly of large aircraft components"
+          - Optimal control, commissioning test bench, interfaces
+          - C++, Matlab, PLC
+    - degree: General Qualification for University Entrance
+      university: Andreas Vesalius Gymnasium Wesel
+      time: 2005 - 2013
+      details: |
+        1.3 (1.0 very good, 4.0 passed)
+    - degree: Elementary school
+      university: Gemeinschaftsgrundschule Borth-Wallach
+      time: 2001 - 2005
 
 experiences:
-    title: Experiences
-    info:
-      - role: Group Manager Mobility and Navigation; Biomedical Systems
-        time: Mar. 2023 - Present
-        company: Institute of Automatic Control, RWTH Aachen University
-        details: |
-          - Acquisition of projects and communication with industry / research partners
-          - Employing and leading up to eight team members
-          - Project management of the acquired projects
-          - Budgeting and writing of grand proposals
-      - role: |
-          Postdoc / Research Assistant
-          3D Perception, Robotics, Drones
-        time: Nov. 2018 - Present
-        company: Institute of Automatic Control, RWTH Aachen University
-        details: |
-          - 3D camera-based, GPU-accelerated pose estimation of ...
-            - surgical instruments; planning and control for robotic pick-and-place
-            - bones for augmented reality-based osteotomy templates
-            - C++, OpenGL, CUDA, ROS, OpenCV, Julia
-          - Kalman filter-based sensor fusion for ...
-            - IMU-based displacement detection of vertebrae (Matlab)
-            - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine (ROS, Python)
-          - Force- and impedance-control of a KUKA LBR Med robot for ...
-            - rehabilitation of stroke patients via assist-as-needed control (Java)
-            - physical support of nurses moving patients (ROS, Python)
-          - Teaching
-            - Concepting and holding lectures and exercises
-            - Supervision of student theses
-      - role: Student Assistant Heart Pump Control
-        time: May 2015 - Oct. 2018
-        company: Institute of Automatic Control, RWTH Aachen University
-        details: |
-          - C++ real-time backend for simulating medical models
-          - Communication-interface for hardware in the loop simulations
-          - C# .NET GUI for the online visualization of experiments
-      - role: Internship in Software Development
-        time: Oct. 2016 - Dec. 2016
-        company: Siemens
-        details: |
-          - Planing, execution and evaluation of the communication between a PC and a Sinumerik unit
-          - Development of a test tool in C#
-          - Construction and 3D printing of parts for test racks
-      - role: Employee in System Gastronomics
-        time: Apr. 2011 - Apr. 2015
-        company: Marché Restaurant DUS Airport
-        details: |
-          - Guest Service
-          - Assistance in work and process optimization
-          - Organization of daily routine
+  title: Experiences
+  info:
+    - role: Senior Robotics and AI Engineer
+      time: Sep. 2025 - Present
+      company: AI.Land (Landhouz GmbH)
+      details: |
+        - Coordination and development of AI and robotics projects
+        - Leading a team of engineers and researchers
+        - Communication with clients and stakeholders
+    - role: "Group Manager"
+      time: Mar. 2023 - Jul. 2025
+      company: Institute of Automatic Control, RWTH Aachen University
+      details: |
+        - Mobility and Navigation; Biomedical Systems
+        - Acquisition of projects and communication with industry / research partners
+        - Employing and leading up to eight team members
+        - Project management of the acquired projects
+        - Budgeting and writing of grand proposals
+    - role: "Postdoc, Research Assistant: Perception, Robotics, Drones"
+      time: Nov. 2018 - Present
+      company: Institute of Automatic Control, RWTH Aachen University
+      details: |
+        - 3D camera-based, GPU-accelerated pose estimation of ...
+          - surgical instruments; planning and control for robotic pick-and-place
+          - bones for augmented reality-based osteotomy templates
+          - C++, OpenGL, CUDA, ROS, OpenCV, Julia
+        - Kalman filter-based sensor fusion for ...
+          - IMU-based displacement detection of vertebrae (Matlab)
+          - LiDAR- and GNSS-based state estimation of an aerial drone and wind turbine (ROS, Python)
+        - Force- and impedance-control of a KUKA LBR Med robot for ...
+          - rehabilitation of stroke patients via assist-as-needed control (Java)
+          - physical support of nurses moving patients (ROS, Python)
+        - Teaching
+          - Concepting and holding lectures and exercises
+          - Supervision of student theses
+    - role: Student Assistant Heart Pump Control
+      time: May 2015 - Oct. 2018
+      company: Institute of Automatic Control, RWTH Aachen University
+      details: |
+        - C++ real-time backend for simulating medical models
+        - Communication-interface for hardware in the loop simulations
+        - C# .NET GUI for the online visualization of experiments
+    - role: Internship in Software Development
+      time: Oct. 2016 - Dec. 2016
+      company: Siemens
+      details: |
+        - Planing, execution and evaluation of the communication between a PC and a Sinumerik unit
+        - Development of a test tool in C#
+        - Construction and 3D printing of parts for test racks
+    - role: Employee in System Gastronomics
+      time: Apr. 2011 - Apr. 2015
+      company: Marché Restaurant DUS Airport
+      details: |
+        - Guest Service
+        - Assistance in work and process optimization
+        - Organization of daily routine
 certifications:
-      title: Certifications & Awards
-      list:
-        - name: Führungskräfte-Intensivseminar (Leadership intensive seminar)
-          start: 2024
-          organization: Able to move (Astrid Müller)
-          # credentialid: 111-222
-          # credentialurl: www.google.com
-          # credentialname: Google
-          link: https://www.abletomove.de/#toggle-id-13
-          details: |
-            - development of my leadership skills and goals
-            - learned about my strengths and potential for my leadership role
-            - self-confidence for future challenges
-        - name: Friedrich-Wilhelm Preis (Friedrich-Wilhelm Prize)
-          start: 2019
-          # end: 2021
-          organization: RWTH Aachen University
-          link: https://www.rwth-aachen.de/cms/root/die-rwth/rwth-events/wuerdigung-unserer-absolvierenden-und-un/~bejcnm/friedrich-wilhelm-preis/?lidx=1
-          details: |
-            Exceptional master's thesis
-        - name: Dean's List
-          link: https://www.rwth-aachen.de/cms/root/studium/lehre/exzellente-lehre/~dhky/dean-s-list/?lidx=1
-          start: 2018
-          organization: RWTH Aachen University
-          details: |
-            Top 5% of the faculty
+  title: Certifications & Awards
+  list:
+    - name: Führungskräfte-Intensivseminar (Leadership intensive seminar)
+      start: 2024
+      organization: Able to move (Astrid Müller)
+      # credentialid: 111-222
+      # credentialurl: www.google.com
+      # credentialname: Google
+      link: https://www.abletomove.de/#toggle-id-13
+      details: |
+        - development of my leadership skills and goals
+        - learned about my strengths and potential for my leadership role
+        - self-confidence for future challenges
+    - name: Friedrich-Wilhelm Preis (Friedrich-Wilhelm Prize)
+      start: 2019
+      # end: 2021
+      organization: RWTH Aachen University
+      link: https://www.rwth-aachen.de/cms/root/die-rwth/rwth-events/wuerdigung-unserer-absolvierenden-und-un/~bejcnm/friedrich-wilhelm-preis/?lidx=1
+      details: |
+        Exceptional master's thesis
+    - name: Dean's List
+      link: https://www.rwth-aachen.de/cms/root/studium/lehre/exzellente-lehre/~dhky/dean-s-list/?lidx=1
+      start: 2018
+      organization: RWTH Aachen University
+      details: |
+        Top 5% of the faculty
 
 oss:
-    title: OSS Contributions
-    intro: |
-      During my time at the Institute of Automatic Control, I have advocated for more open source to improve the reproducibility of our research.
-      I specifically consider [(development) containers](https://github.com/rwth-irt/ros2-devcontainer) useful for simplified reproducibility.
-      Please look at my [GitHub profile](https://github.com/tuebel) for the most recent contributions.
-    contributions:
-      - title: BayesianPoseEstimation.jl
-        link: "https://github.com/Tuebel/BayesianPoseEstimation.jl"
-        tagline: "6D pose estimation using sampling-based Bayesian inference algorithms in Julia; reproduces the results of my dissertation"
-      - title: KUKA LBR Med stack
-        link: "https://github.com/rwth-irt/lbrmed-ros"
-        tagline: "ROS1 support for the KUKA LBR Med: FRI-based hardware interface, MoveIt, kinematic simulation"
-      - title: FLIRT
-        link: "https://gitlab.com/rwth-irt-public/flirt"
-        tagline: "Filter Library Institut für RegelungsTechnik; filter library for 3D camera-based object pose tracking in ROS"
-      - title: FmiWrapper
-        link: "https://github.com/rwth-irt/FmiWrapper"
-        tagline: "Simplified C-Interface for fmi2 models; includes .net wrapper"
+  title: OSS Contributions
+  intro: |
+    During my time at the Institute of Automatic Control, I have advocated for more open source to improve the reproducibility of our research.
+    I specifically consider [(development) containers](https://github.com/rwth-irt/ros2-devcontainer) useful for simplified reproducibility.
+    Please look at my [GitHub profile](https://github.com/tuebel) for the most recent contributions.
+  contributions:
+    - title: BayesianPoseEstimation.jl
+      link: "https://github.com/Tuebel/BayesianPoseEstimation.jl"
+      tagline: "6D pose estimation using sampling-based Bayesian inference algorithms in Julia; reproduces the results of my dissertation"
+    - title: KUKA LBR Med stack
+      link: "https://github.com/rwth-irt/lbrmed-ros"
+      tagline: "ROS1 support for the KUKA LBR Med: FRI-based hardware interface, MoveIt, kinematic simulation"
+    - title: FLIRT
+      link: "https://gitlab.com/rwth-irt-public/flirt"
+      tagline: "Filter Library Institut für RegelungsTechnik; filter library for 3D camera-based object pose tracking in ROS"
+    - title: FmiWrapper
+      link: "https://github.com/rwth-irt/FmiWrapper"
+      tagline: "Simplified C-Interface for fmi2 models; includes .net wrapper"
 
 publications:
-    title: Publications
-    # intro: |
-    #   You can list your publications in this section.
-    papers:
-      - title: Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation
-        link: "https://doi.org/10.18154/RWTH-2024-04533"
-        authors: "**Redick, Tim**"
-        conference: Dissertation, Apr. 15th 2024
-      - title: IMU-based displacement detection of spinal vertebrae during image-based surgeries.
-        link: "https://doi.org/10.1515/bmte-2023-2001"
-        authors: "**Redick T**, Kohler C, Voß KL, Blume C, Delev D, Clusmann HR, Abel D, Vallery H"
-        conference: Abstracts of the 57th Annual Meeting of the German Society of Biomedical, Duisburg, Sep. 2023
-      - title: Comparison of augmented reality and cutting guide technology in assisted harvesting of iliac crest grafts – A cadaver study
-        link: "https://doi.org/10.1016/j.aanat.2021.151834"
-        authors: "Ali M, Nassim A, **Redick T**, Gesenhues J, Kniha K, Möhlhenrich SC, Raith S, Abel D, Hölzle F, Winnand P"
-        conference: Annals of Anatomy - Anatomischer Anzeiger, Jan. 2022
-      - title: "Navigation of iliac crest graft harvest using markerless augmented reality and cutting guide technology: A pilot study."
-        link: "https://doi.org/10.1002/rcs.2318"
-        authors: "Winnand P, Ayoub N, **Redick T**, Gesenhues J, Heitzer M, Peters F, Raith S, Abel D, Hölzle F, Modabber A"
-        conference: The International Journal of Medical Robotics and Computer Assisted Surgery, Aug. 2021
-      - title: "Efficient Reject Options for Particle Filter Object Tracking in Medical Applications"
-        link: "https://doi.org/10.3390/s21062114"
-        authors: "Kummert J, Schulz A, **Redick T**, Ayoub N, Modabber A, Abel D, Hammer B"
-        conference: Sensors, 21(6):2114, Jan. 2021
-      - title: 3D camera-based markerless navigation system for robotic osteotomies
-        link: "https://doi.org/10.18154/RWTH-2020-10194"
-        authors: "**Übelhör (Redick) T**, Gesenhues J, Ayoub N, Modabber A, Abel D"
-        conference: at - Automatisierungstechnik, vol. 68, no. 10, pp. 863-879, Sep. 2020
-      - title: Depth Camera Based Particle Filter for Robotic Osteotomy Navigation
-        link: "https://arxiv.org/abs/1910.11116"
-        authors: "**Übelhör (Redick) T**, Gesenhues J, Ayoub N, Modabber A, Abel D"
-        conference: arXiv:1910.11116 [cs], Oct. 2019
-      - title: Cooperating Robot Force Control for Positioning and Untwisting of Thin Walled Components
-        link: "https://doi.org/10.4172/2168-9695.1000179"
-        authors: Bertelsmeier F, Detert T, **Übelhör (Redick) T**, Schmitt R, Corves B
-        conference: Advances in Robotics and Automation 2017, 6:3, Nov. 2017
+  title: Publications
+  # intro: |
+  #   You can list your publications in this section.
+  papers:
+    - title: Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation
+      link: "https://doi.org/10.18154/RWTH-2024-04533"
+      authors: "**Redick, Tim**"
+      conference: Dissertation, Apr. 15th 2024
+    - title: IMU-based displacement detection of spinal vertebrae during image-based surgeries.
+      link: "https://doi.org/10.1515/bmte-2023-2001"
+      authors: "**Redick T**, Kohler C, Voß KL, Blume C, Delev D, Clusmann HR, Abel D, Vallery H"
+      conference: Abstracts of the 57th Annual Meeting of the German Society of Biomedical, Duisburg, Sep. 2023
+    - title: Comparison of augmented reality and cutting guide technology in assisted harvesting of iliac crest grafts – A cadaver study
+      link: "https://doi.org/10.1016/j.aanat.2021.151834"
+      authors: "Ali M, Nassim A, **Redick T**, Gesenhues J, Kniha K, Möhlhenrich SC, Raith S, Abel D, Hölzle F, Winnand P"
+      conference: Annals of Anatomy - Anatomischer Anzeiger, Jan. 2022
+    - title: "Navigation of iliac crest graft harvest using markerless augmented reality and cutting guide technology: A pilot study."
+      link: "https://doi.org/10.1002/rcs.2318"
+      authors: "Winnand P, Ayoub N, **Redick T**, Gesenhues J, Heitzer M, Peters F, Raith S, Abel D, Hölzle F, Modabber A"
+      conference: The International Journal of Medical Robotics and Computer Assisted Surgery, Aug. 2021
+    - title: "Efficient Reject Options for Particle Filter Object Tracking in Medical Applications"
+      link: "https://doi.org/10.3390/s21062114"
+      authors: "Kummert J, Schulz A, **Redick T**, Ayoub N, Modabber A, Abel D, Hammer B"
+      conference: Sensors, 21(6):2114, Jan. 2021
+    - title: 3D camera-based markerless navigation system for robotic osteotomies
+      link: "https://doi.org/10.18154/RWTH-2020-10194"
+      authors: "**Übelhör (Redick) T**, Gesenhues J, Ayoub N, Modabber A, Abel D"
+      conference: at - Automatisierungstechnik, vol. 68, no. 10, pp. 863-879, Sep. 2020
+    - title: Depth Camera Based Particle Filter for Robotic Osteotomy Navigation
+      link: "https://arxiv.org/abs/1910.11116"
+      authors: "**Übelhör (Redick) T**, Gesenhues J, Ayoub N, Modabber A, Abel D"
+      conference: arXiv:1910.11116 [cs], Oct. 2019
+    - title: Cooperating Robot Force Control for Positioning and Untwisting of Thin Walled Components
+      link: "https://doi.org/10.4172/2168-9695.1000179"
+      authors: Bertelsmeier F, Detert T, **Übelhör (Redick) T**, Schmitt R, Corves B
+      conference: Advances in Robotics and Automation 2017, 6:3, Nov. 2017
 
 skills:
-    title: Skills and Proficiency
+  title: Skills and Proficiency
 
-    toolset:
-      - name: C++, ROS, Linux, Git, Julia
-        level: 95%
-      - name: Docker, Python, OpenGL, CUDA
-        level: 90%
-      - name: CI/CD (GitHub, GitLab), Matlab
-        level: 80%
-      - name: PyTorch
-        level: 60%
+  toolset:
+    - name: C++, ROS, Linux, Git, Julia
+      level: 95%
+    - name: Docker, Python, OpenGL, CUDA
+      level: 90%
+    - name: CI/CD (GitHub, GitLab), Matlab
+      level: 80%
+    - name: PyTorch
+      level: 60%
 
 # projects:
 #     title: Side Projects
@@ -260,4 +266,4 @@ skills:
 #         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
