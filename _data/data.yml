@@ -101,13 +101,13 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Senior Robotics and AI Engineer
+    - role: Head of Robotics
       time: Sep. 2025 - Present
       company: AI.Land (Landhouz GmbH)
       details: |
-        - Coordination and development of AI and robotics projects
-        - Leading a team of engineers and researchers
-        - Communication with clients and stakeholders
+        - Architected Visual Servoing Pipeline: Designed the full stack from mechanical constraints to high-speed Nvidia Edge inference.
+        - Engineered System Reliability: Solved critical latency and stability issues using custom Kalman filtering, calibration, and real-time Web UIs.
+        - Team & Business Leadership: Mentored 5 junior engineers and students while leading technical proposals for customer acquisition.
     - role: "Group Manager"
       time: Mar. 2023 - Jul. 2025
       company: Institute of Automatic Control, RWTH Aachen University
