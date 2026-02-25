@@ -57,7 +57,7 @@ sidebar:
 career-profile:
   title: Profile
   summary: |
-    For over ten years, I have been working on automation solutions in the fields of medical robotics, mobility, and navigation.
+    I have over a decade of experience developing robotic solutions for the agricultural, medical, mobility, and navigation sectors.
     My enthusiasm, openness, and resilience have enabled me to successfully complete numerous projects.
     I enjoy taking on responsibility, which I have been able to do in various management positions.
     In addition to these qualities, my superiors value my quick-thinking and structured problem-solving, even under high pressure.
@@ -118,7 +118,7 @@ experiences:
         - Project management of the acquired projects
         - Budgeting and writing of grand proposals
     - role: "Postdoc, Research Assistant: Perception, Robotics, Drones"
-      time: Nov. 2018 - Present
+      time: Nov. 2018 - Jul. 2025
       company: Institute of Automatic Control, RWTH Aachen University
       details: |
         - 3D camera-based, GPU-accelerated pose estimation of ...
