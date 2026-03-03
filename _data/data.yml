@@ -208,6 +208,10 @@ publications:
   # intro: |
   #   You can list your publications in this section.
   papers:
+    - title: "Towards an AI-driven open-core farm management system with economic, ecological, and social impact"
+      link: "https://doi.org/10.18420/giljt2026_47"
+      authors: "Pleines M, Dahl L, Zimmer F, Weber B, Maike S, **Redick T**, Franko J"
+      conference: "46. GIL-Jahrestagung"
     - title: Bayesian Inference for CAD-Based Pose Estimation on Depth Images for Robotic Manipulation
       link: "https://doi.org/10.18154/RWTH-2024-04533"
       authors: "**Redick, Tim**"
